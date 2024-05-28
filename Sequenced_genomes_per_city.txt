@@ -1,0 +1,86 @@
+Number of sequenced genomes	NM_MUN
+6	Adolfo
+1	Álvares Florence
+4	Américo de Campos
+6	Aparecida d'Oeste
+1	Ariranha
+75	Bady Bassitt
+31	Bálsamo
+4	Cardoso
+101	Catanduva
+35	Catiguá
+22	Cedral
+17	Cosmorama
+6	Embaúba
+14	Estrela d’Oeste
+4	Fernando Prestes
+266	Fernandópolis
+2	Floreal
+3	Gastão Vidigal
+13	General Salgado
+18	Guapiaçu
+4	Guarani d’Oeste
+27	Ibirá
+30	Icém
+23	Indiaporã
+23	Ipiguá
+16	Jaci
+29	Jales
+84	José Bonifácio
+5	Macaubal
+23	Macedônia
+1	Magda
+9	Marapoama
+2	Mendonça
+8	Meridiano
+23	Mira Estrela
+34	Mirassol
+6	Mirassolândia
+1	Monções
+128	Monte Aprazível
+37	Neves Paulista
+8	Nhandeara
+7	Nipoã
+5	Nova Aliança
+2	Nova Canaã Paulista
+60	Nova Granada
+4	Novais
+36	Novo Horizonte
+20	Onda Verde
+11	Orindiúva
+54	Ouroeste
+40	Palestina
+14	Palmares Paulista
+9	Palmeira d’Oeste
+11	Paraíso
+8	Paranapuã
+3	Paulo De Faria
+13	Pedranópolis
+31	Pindorama
+4	Pirangi
+9	Planalto
+23	Poloni
+1	Pontalinda
+15	Populina
+18	Potirendaba
+2	Rubinéia
+13	Santa Adélia
+18	Santa Albertina
+2	Santa Clara d’Oeste
+3	Santa Fé do Sul
+5	Santa Rita d’Oeste
+12	Santa Salete
+6	Santana da Ponte Pensa
+2	São João das Duas Pontes
+969	São José do Rio Preto
+6	Sebastianópolis Do Sul
+53	Tabapuã
+176	Tanabi
+7	Turmalina
+15	Ubarana
+21	Uchoa
+1	União Paulista
+22	Urânia
+18	Urupês
+72	Valentim Gentil
+334	Votuporanga

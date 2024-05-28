@@ -1,0 +1,101 @@
+NM_MUN	Total_cases	Group
+Embaúba	128	<500
+São João de Iracema	208	<500
+Zacarias	274	<500
+Pedranópolis	276	<500
+Dolcinópolis	309	<500
+Novais	310	<500
+Sebastianópolis do Sul	310	<500
+União Paulista	312	<500
+São João das Duas Pontes	322	<500
+Dirce Reis	328	<500
+Santa Clara d'Oeste	339	<500
+Turmalina	341	<500
+Aspásia	372	<500
+Santana da Ponte Pensa	376	<500
+São Francisco	382	<500
+Santa Salete	401	<500
+Mira Estrela	418	<500
+Santa Rita d'Oeste	427	<500
+Gastão Vidigal	428	<500
+Monções	433	<500
+Marinópolis	471	<500
+Magda	488	<500
+Nipoã	522	<1000
+Nova Canaã Paulista	525	<1000
+Pontalinda	546	<1000
+Sales	563	<1000
+Mesópolis	586	<1000
+Pontes Gestal	619	<1000
+Vitória Brasil	624	<1000
+Elisiário	632	<1000
+Floreal	633	<1000
+Meridiano	634	<1000
+Adolfo	639	<1000
+Álvares Florence	646	<1000
+Planalto	663	<1000
+Guarani d'Oeste	669	<1000
+Paulo de Faria	716	<1000
+Mirassolândia	767	<1000
+Rubinéia	837	<1000
+Paraíso	846	<1000
+Marapoama	872	<1000
+Urupês	906	<1000
+Catiguá	919	<1000
+Onda Verde	945	<1000
+Indiaporã	948	<1000
+Paranapuã	960	<1000
+Ariranha	1033	<3000
+Populina	1037	<3000
+Irapuã	1069	<3000
+Três Fronteiras	1252	<3000
+Américo de Campos	1286	<3000
+Fernando Prestes	1295	<3000
+Poloni	1366	<3000
+Ubarana	1396	<3000
+Aparecida d'Oeste	1399	<3000
+Cosmorama	1403	<3000
+General Salgado	1404	<3000
+Santa Albertina	1479	<3000
+Icém	1503	<3000
+Nova Aliança	1521	<3000
+Uchoa	1539	<3000
+Jaci	1566	<3000
+Palestina	1568	<3000
+Ipiguá	1575	<3000
+Macaubal	1611	<3000
+Mendonça	1708	<3000
+Palmeira d'Oeste	1744	<3000
+Pirangi	1938	<3000
+Orindiúva	1949	<3000
+Neves Paulista	2012	<3000
+Palmares Paulista	2045	<3000
+Cedral	2059	<3000
+Ibirá	2235	<3000
+Urânia	2241	<3000
+Bálsamo	2297	<3000
+Ouroeste	2328	<3000
+Guapiaçu	2331	<3000
+Riolãndia	2468	<3000
+Cardoso	2482	<3000
+Estrela d'Oeste	2542	<3000
+Nhandeara	2568	<3000
+Santa Adélia	2692	<3000
+Tabapuã	2727	<3000
+Pindorama	2973	<3000
+Valentim Gentil	3848	<5000
+Itajobi	4054	<5000
+Monte Aprazível	4259	<5000
+Bady Bassitt	4410	<5000
+Nova Granada	4413	<5000
+Potirendaba	4732	<5000
+Tanabi	6105	<10000
+José Bonifácio	6186	<10000
+Novo Horizonte	6190	<10000
+Santa Fé do Sul	7454	<10000
+Mirassol	10373	<15000
+Jales	11971	<15000
+Fernandópolis	13308	<15000
+Votuporanga	17749	<20000
+Catanduva	25794	<30000
+São José do Rio Preto	122938	>120000
